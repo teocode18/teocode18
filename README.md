@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🔭Not time to waste, let's code and win the race!
+
+
+
+
 
 <!--
 **teocode18/teocode18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
