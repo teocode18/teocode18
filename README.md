@@ -1,4 +1,4 @@
-## 🔭Not time to waste, let's code and win the race!
+## 🔭No time to waste, let's code and make it ace!
 
 
 
