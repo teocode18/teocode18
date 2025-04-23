@@ -1,6 +1,6 @@
 ## 🔭No time to waste, let's code and make it ace!
 
-
+documenting my time at the university of leeds studying computer science :)
 
 
 
